@@ -1,0 +1,13 @@
+.container {
+  background-color: bisque;
+  text-align: center;
+  width: 700px;
+  height: 200px;
+  margin-left: 320px;
+  margin-top: 20px;
+}
+.container1 {
+  background-color: #ded3c3;
+  height: 40px;
+  padding: 15px;
+}
